@@ -6,8 +6,7 @@
 `-- develop
     |-- feature-branch
     `-- another-feature</pre>
-<p>Merge feature branch to develop when feature is done.</p>
-<p>Master branch is protected with administrator check to prevent accidental merging to it.</p>
+<p>Make a branch for a feature, and when the feature is ready, a pull request for the feature branch to develop.</p>
 <h2>About SCSS</h2>
 <p>Modify SCSS and not CSS. <a href="http://sass-lang.com/install">SASS needs to be installed</a> and run (sass --watch sass:css) when modifying SCSS files.</p>
 <h2>Credits</h2>
