@@ -1977,4 +1977,8 @@ div.cs-select span {
   background: url(../images/hourglass.svg) center no-repeat #222222;
 }
 
+.navbar {
+    background-color: aqua;
+}
+
 /*# sourceMappingURL=style.css.map */
