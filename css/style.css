@@ -14,7 +14,7 @@
 body {
   font-family: "Open Sans", Arial, sans-serif;
   line-height: 1.6;
-  font-size: 16px;
+  font-size: 20px;
   background: #fff;
   color: #848484;
   font-weight: 300;
@@ -136,7 +136,7 @@ figure {
 .fh5co-cover,
 .fh5co-hero {
   position: relative;
-  height: 800px;
+  height: 750px;
 }
 @media screen and (max-width: 768px) {
   .fh5co-cover,
